@@ -1,0 +1,12 @@
+{
+  "name": "saralweb-sde-assignment",
+  "version": "1.0.0",
+  "description": "Merge discontinuous time ranges assignment",
+  "main": "my-module.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "candidate",
+  "license": "MIT"
+}
